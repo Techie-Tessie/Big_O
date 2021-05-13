@@ -1,4 +1,4 @@
 # Big_O
-Code examples of different Big O complexities
+Additional info and resources on Big O Notation
 
 Watch our Big O video here:
